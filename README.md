@@ -13,3 +13,6 @@ The model takes an input x and predicts y = sin(x) in real-time on an embedded d
 ✅ Deploys a small neural network to predict y = sin(x).
 ✅ Works on Arduino Nano 33 BLE Sense, ESP32, STM32,Arduino UNO etc.
 
+# First RUN python note book and Build your model 
+# Second Copy all the Weight and Biases 
+# Put that values to your Arduino Sketch 
